@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **anddreasjo10@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/andreas-jonathan-7a84b51b8/](<a href="https://linkedin.com/in/andreas-jonathan-7a84b51b8" target="blank"></a>)
+- 📄 Know about my experiences [https://www.linkedin.com/in/andreas-jonathan-7a84b51b8/]([<a href="" target="blank"></a>](https://linkedin.com/in/andreas-jonathan-7a84b51b8))
 
 - ⚡ Fun fact **In Queensland, Australia, it's illegal to own a pet rabbit unless you're a magician.**
 
