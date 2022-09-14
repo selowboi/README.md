@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andreas Jonathan</h1>
 <h3 align="center">A passionate web developer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=seloboi&label=Profile%20views&color=0e75b6&style=flat" alt="seloboi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=selowboi&label=Profile%20views&color=0e75b6&style=flat" alt="selowboi" /> </p>
 
 - ⚡ Fun fact **I turn coffee into codes**
 
